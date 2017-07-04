@@ -1,27 +1,31 @@
 # FavorTools
 Favorite tools including software, websites, books...
 
-*Those which I recommanded are marked with URL.*
+*Those recommended are marked with URL.*
 
 ## Software
 ### Knowledge Manager
 - [Evernote](https://evernote.com) : servers located in the US
-- [Evernote-CN](https://www.yinxiang.com/) : servers located in mainland
+- [Evernote -CN](https://www.yinxiang.com/) : servers located in mainland
 
-### Task Manager
+### Task Manager (To Do List)
 - [Wunderlist](https://www.wunderlist.com/)
 
 ### Paper Manager
 - [papers](http://papersapp.com/) : best for Mac OS
-- [Mendeley](https://www.mendeley.com/) : good for Windows; not so good for high-resolution screen yet
+- [Mendeley](https://www.mendeley.com/) : good for Windows
 
 ### Flowchart
 - [XMind](http://www.xmind.net/) : free for basic functions
-- [XMind-CN](http://www.xmindchina.net/)
+- [XMind -CN](http://www.xmindchina.net/)
+
+### Media Player
+- [Potplayer](http://potplayer.daum.net/) : the best player
 
 ### Media Converter
 - [Mediacoder](http://www.mediacoderhq.com/)
-- [Mediacoder-CN](http://www.mediacoder.com.cn/)
+- [Mediacoder -CN](http://www.mediacoder.com.cn/)
+- FFmpeg : for Linux OS
 - gifCam : convert video clips to .gif
 
 ### Text Editor
@@ -60,21 +64,20 @@ Favorite tools including software, websites, books...
 
 ### English Learning
 - [vocabulary.com](vocabulary.com)
-- [merriam-webster](https://www.merriam-webster.com/)
+- [Merriam Webster Dict](https://www.merriam-webster.com/)
 - [Etymology Dict](http://etymonline.com/)
 - [nounplus](https://www.nounplus.net/) : grammar checker
-- [pigai-CN](http://pigai.org/)
-- [sixty-second-science](http://www.scientificamerican.com/podcast/60-second-science/)
+- [pigai -CN](http://pigai.org/) : for essays
 
 ### Programming Language
-- [HTML intro-CN](https://deerchao.net/tutorials/html/html.htm)
+- [HTML intro -CN](https://deerchao.net/tutorials/html/html.htm)
 - [W3 School](https://www.w3schools.com/) : HTML, CSS, JavaScript, SQL, PHP...
 - [threejs](https://threejs.org/) : with examples
-- [Hexo](https://hexo.io/docs/index.html)
+- [Hexo](https://hexo.io/docs/index.html) : for blogs; based on node.js
 - [jekyll](https://jekyllrb.com/)
 - [jekyll themes](https://jekyllthemes.io/)
-- [Python install intro-CN](http://share.fromwiz.com/share/s/3sW4qc0VC40a23KcyH11Fcav3iQVgl3VjQxj2gBC4G3Mq35h)
-- [Python-CN](http://www.pythondoc.com/)
+- [Python install intro -CN](http://share.fromwiz.com/share/s/3sW4qc0VC40a23KcyH11Fcav3iQVgl3VjQxj2gBC4G3Mq35h)
+- [Python -CN](http://www.pythondoc.com/)
 
 ### Algorithms
 - [visualgo](http://visualgo.net/)
@@ -85,10 +88,13 @@ Favorite tools including software, websites, books...
 - [naaln](https://blog.naaln.com/) : has a nice interactive UI
 
 ### Search Engine
-- [daimugua](http://md5.daimugua.com/)
+- [daimugua](http://md5.daimugua.com/)  - strongly recommended
 
 ### Beautiful Photos
 - [flickr](https://www.flickr.com/)
+
+### Icons
+- [iconmonstr](https://iconmonstr.com/)
 
 ### VSTi
 - [yinseku](http://www.yinseku.com/)
@@ -96,4 +102,8 @@ Favorite tools including software, websites, books...
 
 ## Books
 ### Mathmatics
+- [Linear Algebra Done Right](https://link.springer.com/book/10.1007%2F978-3-319-11080-6)
 - [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/book.pdf)
+
+### SLAM
+- [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/)
