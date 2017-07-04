@@ -13,7 +13,7 @@ Favorite tools including software, websites, books...
 
 ### Paper Manager
 - [papers](http://papersapp.com/) : best for Mac OS
-- [Mendeley](https://www.mendeley.com/) : good for Windows; not so good for high resolution screen yet
+- [Mendeley](https://www.mendeley.com/) : good for Windows; not so good for high-resolution screen yet
 
 ### Flowchart
 - [XMind](http://www.xmind.net/) : free for basic functions
@@ -22,7 +22,7 @@ Favorite tools including software, websites, books...
 ### Media Converter
 - [Mediacoder](http://www.mediacoderhq.com/)
 - [Mediacoder-CN](http://www.mediacoder.com.cn/)
-- gifCam(without URL) : convert video clips to .gif
+- gifCam : convert video clips to .gif
 
 ### Text Editor
 - [Atom](https://atom.io/) : owned by github; support Markdown language
@@ -36,10 +36,13 @@ Favorite tools including software, websites, books...
 
 ### English Learning
 - [Lingoes](http://www.lingoes.cn/)
-- []
 
 ### Piano Game
 - [synthesia](http://www.synthesiagame.com/)
+
+### What You Know
+- [lantern](https://getlantern.org/)
+- shadowsocks
 
 ## Websites
 ### Flowchart
@@ -65,7 +68,7 @@ Favorite tools including software, websites, books...
 
 ### Programming Language
 - [HTML intro-CN](https://deerchao.net/tutorials/html/html.htm)
-- [HTML](https://www.w3schools.com/)
+- [W3 School](https://www.w3schools.com/) : HTML, CSS, JavaScript, SQL, PHP...
 - [Hexo](https://hexo.io/docs/index.html)
 - [jekyll](https://jekyllrb.com/)
 - [jekyll themes](https://jekyllthemes.io/)
