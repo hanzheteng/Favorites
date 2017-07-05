@@ -49,6 +49,12 @@ Favorite tools including software, websites, books...
 - shadowsocks
 
 ## Websites
+### Git Tutorials
+- [the simple guide](https://rogerdudler.github.io/git-guide/) : multi-language
+- [git book](https://git-scm.com/book) : multi-language
+- [Xuefeng Liao's Blog -CN](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [markdown -CN](http://www.jianshu.com/p/q81RER)
+
 ### Flowchart
 - [ProcessOn](https://www.processon.com/)
 
