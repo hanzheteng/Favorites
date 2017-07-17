@@ -106,6 +106,9 @@ Favorite tools including software, websites, books...
 - [yinseku](http://www.yinseku.com/)
 - [midifan](http://www.midifan.com/)
 
+### Machine Learning API
+- [Microsoft Azure](https://azure.microsoft.com/en-us/)
+
 ## Books
 ### Mathmatics
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007%2F978-3-319-11080-6)
