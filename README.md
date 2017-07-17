@@ -74,6 +74,8 @@ Favorite tools including software, websites, books...
 - [Etymology Dict](http://etymonline.com/)
 - [nounplus](https://www.nounplus.net/) : grammar checker
 - [pigai -CN](http://pigai.org/) : for essays
+- [Academic Word List](http://www.victoria.ac.nz/lals/resources/academicwordlist/awl-headwords)
+- [New Academic Word List](http://www.newgeneralservicelist.org/nawl-new-academic-word-list/)
 
 ### Programming Language
 - [HTML intro -CN](https://deerchao.net/tutorials/html/html.htm)
@@ -109,10 +111,12 @@ Favorite tools including software, websites, books...
 ### Machine Learning API
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
-## Books
+## Books & Courses
 ### Mathmatics
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007%2F978-3-319-11080-6)
 - [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/book.pdf)
+- [betterexplained.com](https://betterexplained.com/) : Math without endless memorization.
+
 
 ### SLAM
 - [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/)
