@@ -48,6 +48,10 @@ Favorite tools including software, websites, books...
 - [lantern](https://getlantern.org/)
 - shadowsocks
 
+### Voice to Text
+- [Speechnotes](https://chrome.google.com/webstore/detail/speechnotes-speech-to-tex/opekipbefdbacebgkjjdgoiofdbhocok)
+- [Voice Recognition](https://chrome.google.com/webstore/detail/voice-recognition/ikjmfindklfaonkodbnidahohdfbdhkn)
+
 ## Websites
 ### Git Tutorials
 - [the simple guide](https://rogerdudler.github.io/git-guide/) : multi-language
