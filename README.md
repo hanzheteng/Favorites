@@ -1,7 +1,5 @@
-# FavorTools
-Favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, books, etc.
-
-*Those recommended are marked with URL.*
+# Favorites
+My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, books, etc.
 
 ## Work & Life
 ### Efficiency
@@ -43,7 +41,7 @@ Favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, boo
 - [dictionary.com](http://www.dictionary.com/) : American English, easy to learn, word origin in world map, can be cited
 - [thesaurus.com](http://www.thesaurus.com/) : synonyms and antonyms of words, useful for writing
 - [vocabulary.com](https://www.vocabulary.com/dictionary/) : explain the meaning with plain words and vivid examples.
-- [Corpus of Contemporary American English](https://corpus.byu.edu/coca/)
+- [Corpus of Contemporary American English](https://corpus.byu.edu/coca/) : If you are not sure about your words or phrases, find it here.
 - [Online Etymology Dictionary](http://etymonline.com/)
 - [Merriam Webster](https://www.merriam-webster.com/)
 - [nounplus](https://www.nounplus.net/) : grammar checker website
