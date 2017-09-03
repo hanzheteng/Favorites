@@ -19,7 +19,6 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 
 ### Photos & Media
 - [flickr](https://www.flickr.com/) : a large photo-sharing website
-- [iconmonstr](https://iconmonstr.com/) : icons database
 - [Potplayer](http://potplayer.daum.net/) : The best media player I've ever used
 
 ### Music
@@ -77,9 +76,6 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 - [HTML (CN)](https://deerchao.net/tutorials/html/html.htm)
 - [W3 School](https://www.w3schools.com/) : HTML, CSS, JavaScript, SQL, PHP...
 - [threejs](https://threejs.org/) : JavaScript with examples
-- [Hexo](https://hexo.io/docs/index.html) : for blogs; based on node.js
-- [jekyll](https://jekyllrb.com/) : for blogs on github.io
-- [jekyll themes](https://jekyllthemes.io/)
 - [Python installation tutorials (CN)](http://share.fromwiz.com/share/s/3sW4qc0VC40a23KcyH11Fcav3iQVgl3VjQxj2gBC4G3Mq35h)
 - [Python tutorials (CN)](http://www.pythondoc.com/)
 
@@ -95,3 +91,10 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 - [GoDaddy](https://www.godaddy.com/) : for international
 - [wanwang](https://wanwang.aliyun.com/) : for mainland
 - [whois](https://whois.net/) : lookup registration information
+
+### Build a Website
+- [Hexo](https://hexo.io/docs/index.html) : for blogs; based on node.js
+- [jekyll](https://jekyllrb.com/) : for blogs on github.io
+- [jekyll themes](https://jekyllthemes.io/)
+- [Font Awesome](http://fontawesome.io/)
+- [iconmonstr](https://iconmonstr.com/) : icons database
