@@ -60,6 +60,7 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 - [Atom](https://atom.io/) : from github.com; support Markdown language
 - Notepad++
 - Sublime Text
+- [Cmd Markdown](https://www.zybuluo.com/mdeditor)
 
 ### Git Tutorials
 - [the simple guide](https://rogerdudler.github.io/git-guide/) : multi-language
