@@ -3,7 +3,7 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 
 ## Work & Life
 ### Efficiency
-- [Evernote](https://evernote.com) ([CN](https://www.yinxiang.com/)): Knowledge management software
+- [Evernote](https://evernote.com) ([CN](https://www.yinxiang.com/)) : Knowledge management software
 - [Wunderlist](https://www.wunderlist.com/) : To do List app, light software
 - [Trello](https://trello.com/) : Use "board" to manage your life, a good tool for team cooperation
 - [XMind](http://www.xmind.net/) ([CN](http://www.xmindchina.net/)): Flowchart software, free for the basic functions
@@ -12,8 +12,7 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 ### Converter
 - [Mediacoder](http://www.mediacoderhq.com/) ([CN](http://www.mediacoder.com.cn/)) : The best media format converter
 - gifCam : convert video clips to .gif
-- [Speechnotes](https://chrome.google.com/webstore/detail/speechnotes-speech-to-tex/opekipbefdbacebgkjjdgoiofdbhocok) : Voice to text
-- [Voice Recognition](https://chrome.google.com/webstore/detail/voice-recognition/ikjmfindklfaonkodbnidahohdfbdhkn) : Voice to text
+- [Speechnotes](https://speechnotes.co/) ([Chrome Add-On](https://chrome.google.com/webstore/detail/speechnotes-speech-to-tex/opekipbefdbacebgkjjdgoiofdbhocok)) : Voice to text
 
 ### E-file Search Engine
 - [daimugua](http://md5.daimugua.com/) : an e-files search engine
