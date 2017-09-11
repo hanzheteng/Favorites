@@ -12,7 +12,7 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 ### Converter
 - [Mediacoder](http://www.mediacoderhq.com/) ([CN](http://www.mediacoder.com.cn/)) : The best media format converter
 - gifCam : convert video clips to .gif
-- [Speechnotes](https://speechnotes.co/) ([Chrome Add-On](https://chrome.google.com/webstore/detail/speechnotes-speech-to-tex/opekipbefdbacebgkjjdgoiofdbhocok)) : Voice to text
+- [Speechnotes](https://speechnotes.co/) ([Chrome Add-in](https://chrome.google.com/webstore/detail/speechnotes-speech-to-tex/opekipbefdbacebgkjjdgoiofdbhocok)) : Voice to text
 
 ### E-file Search Engine
 - [daimugua](http://md5.daimugua.com/) : an e-files search engine
@@ -35,16 +35,29 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 - Google Scholar
 
 ### English Learning
+#### Dictionary
 - [youdao Dict](http://dict.youdao.com/?keyfrom=cidian) : contains ***Longman*** and ***Collins*** English-Chinese bilingual dictionary
 - [dictionary.com](http://www.dictionary.com/) : American English, easy to learn, word origin in world map, can be cited
 - [thesaurus.com](http://www.thesaurus.com/) : synonyms and antonyms of words, useful for writing
 - [vocabulary.com](https://www.vocabulary.com/dictionary/) : explain the meaning with plain words and vivid examples.
-- [Corpus of Contemporary American English](https://corpus.byu.edu/coca/) : If you are not sure about your words or phrases, find it here.
 - [Online Etymology Dictionary](http://etymonline.com/)
 - [Merriam Webster](https://www.merriam-webster.com/)
-- [nounplus](https://www.nounplus.net/) : grammar checker website
-- [pigai (CN)](http://pigai.org/) : essay evaluation
 - [Lingoes](http://www.lingoes.cn/) : light and extensible dictionary software for Windows
+- [Corpus of Contemporary American English](https://corpus.byu.edu/coca/) : If you are not sure about your words or phrases, find it here.
+
+#### Checker
+- [Grammarly](www.grammarly.com/) : Chrome & Office Add-in are very useful.
+- [nounplus](https://www.nounplus.net/) : grammar checker online
+- [Hemingway Editor](http://www.hemingwayapp.com/) : essay highlight
+- [pigai (CN)](http://pigai.org/) : essay evaluation
+- [visuwords](https://visuwords.com/) : visualize your words
+- [FoxType](labs.foxtype.com/politeness) : Write in a more polite, friendly tone. (check it when you are writing the email to your professor)
+
+#### Books (*You can find them on Amazon*)
+- *Word Power Made Easy*
+- *On Writing Well*
+- *Verbal Advantage*
+- *Barron's 1100 Words You Need to Know*
 
 ### Mathematic
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007%2F978-3-319-11080-6)
