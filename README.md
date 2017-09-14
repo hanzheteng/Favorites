@@ -58,6 +58,7 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 - *On Writing Well*
 - *Verbal Advantage*
 - *Barron's 1100 Words You Need to Know*
+- *Science Research Writing for Non-Native Speakers of English*
 
 ### Mathematic
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007%2F978-3-319-11080-6)
