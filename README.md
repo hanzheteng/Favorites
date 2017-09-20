@@ -69,6 +69,11 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 - [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) : a Visual SLAM book
 
 ## Computer Science
+### Graduate School
+- [CSRankings](http://csrankings.org/) : sorted by the number of papers / collaborators
+- [A computer science graduate school survival guide](http://web.cs.ucla.edu/~palsberg/azuma.html)
+- [The Ph.D Experience](http://cseweb.ucsd.edu/~mihir/phd.html)
+
 ### Text Editor
 - [Atom](https://atom.io/) : from github.com; support Markdown language
 - Notepad++
