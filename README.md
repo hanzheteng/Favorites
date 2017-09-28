@@ -10,7 +10,8 @@ My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, 
 - [ProcessOn](https://www.processon.com/) : an online flowchart maker website
 
 ### Converter
-- [Mediacoder](http://www.mediacoderhq.com/) ([CN](http://www.mediacoder.com.cn/)) : The best media format converter
+- [HandBrake](https://handbrake.fr/) : highly recommend, can deal with variable frame rate video.
+- [Mediacoder](http://www.mediacoderhq.com/) ([CN](http://www.mediacoder.com.cn/)) : small size converter
 - gifCam : convert video clips to .gif
 - [Speechnotes](https://speechnotes.co/) ([Chrome Add-in](https://chrome.google.com/webstore/detail/speechnotes-speech-to-tex/opekipbefdbacebgkjjdgoiofdbhocok)) : Voice to text
 
